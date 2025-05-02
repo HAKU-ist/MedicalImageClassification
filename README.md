@@ -59,7 +59,3 @@ Open your browser and go to `http://localhost:6006`.
 
 Due to GitHub's 100MB file limit, the trained model is not included in the repository.
 
-
-## License
-
-This project is licensed under the MIT License.
